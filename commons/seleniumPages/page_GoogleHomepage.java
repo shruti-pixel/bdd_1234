@@ -14,6 +14,7 @@ public class page_GoogleHomepage extends Page_PageBase {
 
 	public void OpenGoogleUrl() {
 		driver.get("https://www.google.com");
+		driver.get("https://www.google.com")
 
 	}
 
